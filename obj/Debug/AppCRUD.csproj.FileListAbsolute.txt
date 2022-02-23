@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\bin\Debug\AppCRUD.exe.config
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\bin\Debug\AppCRUD.exe
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\bin\Debug\AppCRUD.pdb
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.Form1.resources
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.exe
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.pdb
+C:\Users\Gabriel\source\repos\AppCRUD\AppCRUD\obj\Debug\AppCRUD.frmEmpleados.resources
